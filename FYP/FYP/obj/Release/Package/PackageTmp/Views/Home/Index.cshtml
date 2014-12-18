@@ -1,0 +1,71 @@
+﻿@model FYP.Models.Search
+@{
+    
+}
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-ui-1.8.24.js"></script>
+<script src="../Scripts/bootstrap.js"></script>
+<link href="../Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/searchBar.css" rel="stylesheet" />
+<!--/.navbar -->
+<script type="text/javascript">
+    function search() {
+        var t = $("#searchBar").val();
+        document.getElementById('btn').focus();
+        $("#this1").text("");
+        $("#this1").load("/Account/SearchResult", { query: t });
+    }
+    $(document).ready(function () {
+        $("#searchBar").autocomplete({
+            source: '/Account/SearchAutoComp',
+
+        });
+        $("#searchBar").keypress(function (event) {
+            if (event.which == 13) {
+                search();
+
+
+            }
+        });
+    });
+
+</script>
+
+
+<div class="col-lg-5 col-lg-push-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-3">
+                <div id="imaginary_container">
+                    <div class="input-group stylish-input-group">
+                        <input type="text" id="searchBar" class="form-control" placeholder="Search" style="font-size:x-large">
+                        <span class="input-group-addon">
+                            <button onclick="search()" id="btn">
+                                <span class="glyphicon glyphicon-search "></span>
+                            </button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+
+    <ul class="nav nav-tabs" data-tabs="tabs">
+        <li class="active"><a data-toggle="tab" href="#this1">My Search</a></li>
+        <li><a data-toggle="tab" href="#google1">Google Search</a></li>
+
+    </ul>
+
+    <br />
+
+    <div class="tab-content">
+        <div class="tab-pane active" id="this1">
+
+        </div>
+        <div class="tab-pane" id="google1">
+        </div>
+    </div>
+</div>

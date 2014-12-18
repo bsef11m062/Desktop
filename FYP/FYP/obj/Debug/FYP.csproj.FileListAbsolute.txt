@@ -1,0 +1,212 @@
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\FYP.dll.config
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\FYP.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\FYP.pdb
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Antlr3.Runtime.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\EntityFramework.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\EntityFramework.SqlServer.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\ICSharpCode.SharpZipLib.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Lucene.Net.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Google.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Newtonsoft.Json.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Ninject.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Ninject.Web.Common.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Ninject.Web.Mvc.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Owin.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Helpers.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Mvc.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Optimization.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Razor.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.WebPages.Deployment.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.WebPages.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.WebPages.Razor.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\WebActivatorEx.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\WebGrease.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Lucene.Net.pdb
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Lucene.Net.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Ninject.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Ninject.Web.Common.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Ninject.Web.Mvc.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Helpers.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Mvc.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Optimization.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.Razor.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.WebPages.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.WebPages.Deployment.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\System.Web.WebPages.Razor.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Newtonsoft.Json.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Antlr3.Runtime.pdb
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\EntityFramework.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\EntityFramework.SqlServer.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\obj\Debug\FYP.dll
+c:\users\m.s leo\documents\visual studio 2013\Projects\FYP\FYP\obj\Debug\FYP.pdb
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\FYP.dll.config
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\FYP.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\FYP.pdb
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Antlr3.Runtime.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\EntityFramework.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\EntityFramework.SqlServer.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Lucene.Net.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Newtonsoft.Json.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Ninject.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Ninject.Web.Common.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Ninject.Web.Mvc.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Owin.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Helpers.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Mvc.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Optimization.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Razor.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.WebPages.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.WebPages.Razor.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\WebActivatorEx.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\WebGrease.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Lucene.Net.pdb
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Lucene.Net.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Ninject.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Ninject.Web.Common.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Ninject.Web.Mvc.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Helpers.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Mvc.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Optimization.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.Razor.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.WebPages.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\System.Web.WebPages.Razor.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Newtonsoft.Json.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Antlr3.Runtime.pdb
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\EntityFramework.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\EntityFramework.SqlServer.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\obj\Debug\FYP.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\obj\Debug\FYP.pdb
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\AWSSDK.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Postal.Amazon.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Postal.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\RazorEngine.dll
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Postal.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\RazorEngine.pdb
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\RazorEngine.xml
+C:\Users\M.S Leo\Documents\Visual Studio 2013\FYP\FYP\bin\Mvc.Mailer.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\FYP.dll.config
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\FYP.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\FYP.pdb
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Antlr3.Runtime.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\AWSSDK.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\EntityFramework.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\EntityFramework.SqlServer.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Lucene.Net.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Mvc.Mailer.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Newtonsoft.Json.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Ninject.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Ninject.Web.Common.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Ninject.Web.Mvc.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Owin.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Postal.Amazon.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Postal.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\RazorEngine.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.Helpers.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.Optimization.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.Razor.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.WebPages.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\WebActivatorEx.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\WebGrease.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Lucene.Net.pdb
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Lucene.Net.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Ninject.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Ninject.Web.Common.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Ninject.Web.Mvc.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Postal.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\RazorEngine.pdb
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\RazorEngine.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.Helpers.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.Razor.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.WebPages.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\System.Web.Optimization.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Newtonsoft.Json.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Antlr3.Runtime.pdb
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\EntityFramework.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\EntityFramework.SqlServer.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\obj\Debug\FYP.dll
+C:\Users\Sannan Khurshid\Desktop\FYP\FYP\obj\Debug\FYP.pdb

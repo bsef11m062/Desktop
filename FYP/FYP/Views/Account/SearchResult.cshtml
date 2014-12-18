@@ -1,0 +1,50 @@
+﻿@{
+
+}
+
+@model FYP.Models.Search
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/search.css" rel="stylesheet" />
+<script src="~/Scripts/bootstrap.js"></script>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-ui-1.8.24.js"></script>
+<div class="container">
+
+    <hgroup class="mb20">
+        <h1>Search Results</h1>
+        <h2 class="lead"><strong class="text-danger">@ViewBag.search.Count</strong> results were found for the search for <strong class="text-danger">@ViewBag.query</strong></h2>
+    </hgroup>
+
+    <section class="col-xs-12 col-sm-6 col-md-12">
+        @foreach (FYP.Models.Search s in ViewBag.search)
+        {
+            <article class="search-result row">
+                <div class="col-xs-12 col-sm-12 col-md-3">
+                    <a href="#" class="thumbnail"><img src="../ProfilePics/default.jpg" /></a>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-2">
+                    <ul class="meta-search">
+                        <li><i class="glyphicon glyphicon-calendar"></i> <span>@s.Date</span></li>
+                        <li><i class="glyphicon glyphicon-time"></i> <span>@s.Time</span></li>
+                        <li><i class="glyphicon glyphicon-tags"></i> <span>People</span></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-7 excerpet">
+                    <h3>
+                        <a href="#" title="">@s.UserName</a>
+                        @if(s.IsOnline==true)
+                        {
+                            <span class="pull-right" style="color:green;font-size:x-large">Online </span>
+                        }
+                        else
+                        {
+                            <span class="pull-right" style="color:green;font-size:x-large">Ofline </span>
+                        }
+                    </h3>
+                    <p>@s.SearchQuery</p>
+                </div>
+                <span class="clearfix borda"></span>
+            </article>
+        }
+    </section>
+</div>

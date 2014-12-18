@@ -1,0 +1,25 @@
+﻿#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+    font-size:x-large;
+
+}
+.stylish-input-group .input-group-addon{
+    background: white !important;
+    box-shadow:0 0 0; 
+	border-color:#000;
+    height:40px;
+    border-width:medium; 
+}
+.stylish-input-group .form-control{
+	border-right:0;
+    width:400px;
+    height:50px; 
+	box-shadow:0 0 0; 
+	border-color:#000;
+    border-width:medium; 
+
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://browser/content/history/history-panel.xul">
+    <NC:persist RDF:resource="chrome://browser/content/history/history-panel.xul#viewButton"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://torlauncher/content/progress.xul#TorProgress"
+                   screenY="1"
+                   screenX="0" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/plugins/pluginInstallerWizard.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/plugins/pluginInstallerWizard.xul#plugin-installer-wizard"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/plugins/pluginInstallerWizard.xul#plugin-installer-wizard"
+                   screenX="375"
+                   screenY="104"
+                   width="616"
+                   height="519"
+                   sizemode="normal" />
+  <RDF:Description RDF:about="chrome://browser/content/history/history-panel.xul#viewButton"
+                   selectedsort="dayandsite" />
+  <RDF:Description RDF:about="chrome://torbutton/content/preferences.xul">
+    <NC:persist RDF:resource="chrome://torbutton/content/preferences.xul#torbutton-prefs"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"
+                   screenX="472"
+                   screenY="202" />
+  <RDF:Description RDF:about="chrome://torlauncher/content/network-settings-wizard.xul">
+    <NC:persist RDF:resource="chrome://torlauncher/content/network-settings-wizard.xul#TorNetworkSettings"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   width="1014"
+                   screenX="37"
+                   screenY="53"
+                   height="669"
+                   sizemode="maximized" />
+  <RDF:Description RDF:about="chrome://torlauncher/content/network-settings-wizard.xul#TorNetworkSettings"
+                   screenX="0"
+                   screenY="0" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   src="chrome://browser/content/history/history-panel.xul" />
+  <RDF:Description RDF:about="chrome://torlauncher/content/progress.xul">
+    <NC:persist RDF:resource="chrome://torlauncher/content/progress.xul#TorProgress"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://torbutton/content/preferences.xul#torbutton-prefs"
+                   screenX="433"
+                   screenY="146" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"
+                   lastSelected="paneAdvanced"
+                   screenX="429"
+                   screenY="132" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="unified-back-forward-button,noscript-tbb,torbutton-button,urlbar-container,reload-button,stop-button,search-container,webrtc-status-button,bookmarks-menu-button,downloads-button,home-button,window-controls,social-share-button,torbutton-context-menu,https-everywhere-button" />
+</RDF:RDF>
